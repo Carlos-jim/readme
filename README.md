@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Imagen de cabecera (puedes buscar gifs de "lofi coding" en giphy) -->
-  <img src="https://media.tenor.com/qJ5evVs-_uQAAAAC/coding.gif" width="100%" style="border-radius: 10px" />
+  <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="400" />
   
   <br/>
   
