@@ -34,11 +34,11 @@
 ## 🐍 Contribution Activity
 <!-- Esta imagen se genera automáticamente con el GitHub Action (ver abajo) -->
 <div align="center">
-  <img src="https://github.com/Carlos-jim/Carlos-jim/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Carlos-jim/Carlos-jim/output/github-contribution-grid-snake.svg" />
 </div>
 <br/>
 ## 📊 GitHub Analytics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO-GITHUB&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO-GITHUB&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<img src="https://github-readme-stats.vercel.app/api?username=Carlos-jim&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-jim&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </div>
