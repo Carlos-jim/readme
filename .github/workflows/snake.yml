@@ -13,7 +13,7 @@ jobs:
         uses: Platane/snk@v3
         with:
           # Reemplaza con tu usuario de GitHub aqui
-          github_user_name: TU-USUARIO-GITHUB
+          github_user_name: Carlos-jim
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
