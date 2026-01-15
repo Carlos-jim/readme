@@ -18,7 +18,7 @@
 </div>
 <br/>
 ## 👨‍💻 Sobre Mí
-- 🔭 I’m currently working on **REDACTALO.AI**
+- 🔭 I’m currently working on *Ploot.AI**
 - 🌱 I’m currently learning **Advanced AI Agents**
 - 💬 Ask me about **React, Next.js, and AI**
 - ⚡ Fun fact: **I love building cool things!**
@@ -34,7 +34,7 @@
 ## 🐍 Contribution Activity
 <!-- Esta imagen se genera automáticamente con el GitHub Action (ver abajo) -->
 <div align="center">
-  <img src="https://github.com/TU-USUARIO-GITHUB/TU-USUARIO-GITHUB/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/Carlos-jim/Carlos-jim/blob/output/github-contribution-grid-snake.svg" />
 </div>
 <br/>
 ## 📊 GitHub Analytics
